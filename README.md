@@ -2,9 +2,6 @@
 
 A modern, full-stack application designed to capture, inspect, and automatically generate TypeScript handlers for webhook requests. Features real-time visualization with AI-powered handler code generation.
 
-> [!IMPORTANT]
-> 🚧 **Work in Progress:** This project is under active development and intended for educational purposes.
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
